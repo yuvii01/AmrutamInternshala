@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AmrutamInternshala/static/css/main.3374e407.css",
+    "main.js": "/AmrutamInternshala/static/js/main.a0e27b6f.js",
+    "static/media/header2bg.png": "/AmrutamInternshala/static/media/header2bg.baa213d8582249df937f.png",
+    "static/media/headerbg.png": "/AmrutamInternshala/static/media/headerbg.2d1a10b4e556735d86b0.png",
+    "static/media/ovarlay2.png": "/AmrutamInternshala/static/media/ovarlay2.e76c08b29a04c834e3cb.png",
+    "static/media/ding.png": "/AmrutamInternshala/static/media/ding.da85a20bbe52bed1e4ba.png",
+    "static/media/ovarlay22.png": "/AmrutamInternshala/static/media/ovarlay22.c46a2d86c2d020829f1a.png",
+    "static/media/grilback.png": "/AmrutamInternshala/static/media/grilback.b99c19a2b833e197207a.png",
+    "static/media/slick.svg": "/AmrutamInternshala/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AmrutamInternshala/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AmrutamInternshala/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AmrutamInternshala/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AmrutamInternshala/index.html",
+    "main.3374e407.css.map": "/AmrutamInternshala/static/css/main.3374e407.css.map",
+    "main.a0e27b6f.js.map": "/AmrutamInternshala/static/js/main.a0e27b6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3374e407.css",
+    "static/js/main.a0e27b6f.js"
+  ]
+}
